@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+.modau{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+table{
+    background-image: url(./ảnh2.jpg);
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#in1{
+    margin: 10px 2px;
+    background-color: plum;
+    color: white;
+}
+
+#in2{
+    margin: 10px 2px;
+    background-color: aqua;
+    color: blue;
+}
+
+#in3{
+    margin: 10px 2px;
+    background-color: greenyellow;
+    color: blue;
+}
